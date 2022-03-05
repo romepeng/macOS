@@ -1,0 +1,6 @@
+test git on RRPC 
+
+
+ssh -T git@github.com
+
+
