@@ -1,0 +1,20 @@
+Host github
+    Hostname github.com
+    User git
+	IdentityFile ~/.ssh/id_rsa
+
+Host aliyun
+    Hostname 39.108.68.163
+    User rome
+	IdentityFile ~/.ssh/id_rsa_aliyun
+
+Host oracle-big
+	HostName 150.136.224.64
+	User ubuntu
+	IdentityFile ~/.ssh/id_rsa_oracle-big
+
+Host oracle-small
+	HostName 150.136.153.47
+	User ubuntu
+	IdentityFile ~/.ssh/id_rsa_oracle-big
+
